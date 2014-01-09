@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 
 group :development, :test do
 	gem 'rspec-rails', '~> 2.12.2'
+	gem 'spork-rails'
 
 end
 
